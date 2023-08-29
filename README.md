@@ -1,0 +1,2 @@
+# GoSigThief
+Sigthief Go Version
